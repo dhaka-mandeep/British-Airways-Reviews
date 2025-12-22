@@ -2,6 +2,8 @@
 📊 Overview
 
 This project analyzes customer reviews of British Airways to evaluate service performance and passenger satisfaction. An interactive Tableau dashboard was developed to transform raw review data into actionable business insights across multiple service dimensions.
+<img width="1280" height="800" alt="Screenshot 2025-12-22 at 02 38 22" src="https://github.com/user-attachments/assets/8f68fa40-c47d-4f9c-ab96-7b9905d60c85" />
+
 
 🎯 Business Objective
 
