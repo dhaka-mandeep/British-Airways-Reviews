@@ -49,11 +49,3 @@ Entertainment and food receive comparatively lower ratings
 Customer satisfaction varies by region and aircraft type
 Economy class reviews dominate overall trends
 
-📂 Repository Structure
-├── data/
-│   └── ba_reviews.csv
-├── tableau/
-│   └── British_Airways_Dashboard.twbx
-├── images/
-│   └── dashboard_screenshot.png
-└── README.md
